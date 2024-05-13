@@ -85,3 +85,14 @@ console.log(interns11[password]);
 
 
 
+let temperature=[Monday="morning-6^,dinner-15^,evening-10^",Tuesday="morning-4^,dinner-10^,evening-5^",Wednesday="morning-4^,dinner-20^,evening-10^",Thusday="morning-10^,dinner-20^,evening-15^",Friday="morning-10^,dinner-25^,evening-10^",Saturday="morning-10^,dinner-25^,evening-15^",Sunday="morning-15^,dinner-25^,evening-15^",];
+
+console.log(temperature[Monday]);
+console.log(temperature[Tuesday]);
+console.log(temperature[Wednesday]);
+console.log(temperature[Thusday]);
+console.log(temperature[Friday]);
+console.log(temperature[Saturday]);
+console.log(temperature[Sunday]);
+
+
